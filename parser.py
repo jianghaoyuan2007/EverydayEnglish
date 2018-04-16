@@ -30,7 +30,7 @@ class Parser:
         for c_index, chapter in enumerate(chapters):
 
             chapter_index = c_index + 1
-            chapter_name = 'Chapter ' + str(chapter_index) + ' ' + chapter.attrib['name']
+            chapter_name = 'Chapter {0:0=2d} {1}'.format(chapter_index, chapter.attrib['name'])
             chapter_item = Item(chapter_name, '', [], is_dir=True)
             book_item.items.append(chapter_item)
 
@@ -44,7 +44,7 @@ class Parser:
             for u_index, unit in enumerate(units):
 
                 unit_index = u_index + 1
-                unit_name = 'Unit ' + str(unit_index) + ' ' + unit.text
+                unit_name = 'Unit {0:0=2d} {1}'.format(unit_index, unit.text)
                 unit_item = Item(unit_name, '', [], is_dir=True)
                 chapter_item.items.append(unit_item)
 
