@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!-- http://m.ivytw.com/public/uploads/download/Everyday/ -->
+<book name="赖世雄-生活口语" url="http://localhost:8000/mp3/">
+    <chapter name="生活琐事">
+        <unit>Breakfast</unit>
+        <unit>Ordering Take-out</unit>
+        <unit>Cooking Dinner</unit>
+        <unit>Cleaning</unit>
+        <unit>Grocery Shopping</unit>
+        <unit>At the Supermarket</unit>
+        <unit>Doing the Laundry</unit>
+        <unit>Can't Find Something</unit>
+        <unit>Taking Out the Trash</unit>
+        <unit>Taking a Bath</unit>
+        <unit>Going to Bed</unit>
+    </chapter>
+    <chapter name="个人习惯">
+        <unit>Quit Smoking</unit>
+        <unit>An Ex-drinker</unit>
+        <unit>Staying Up Later</unit>
+        <unit>Eating Habits</unit>
+        <unit>Healthy Habits</unit>
+        <unit>Weekend Life</unit>
+    </chapter>
+    <chapter name="个人健康">
+        <unit>Overweight</unit>
+        <unit>Dental Hygiene</unit>
+        <unit>Having a Haircut</unit>
+        <unit>Sleeplessness</unit>
+        <unit>Minor Health Problems</unit>
+        <unit>Menstrual Cycle</unit>
+        <unit>Seeing a Doctor</unit>
+        <unit>Medical Check-ups</unit>
+        <unit>At the Pharmacy</unit>
+    </chapter>
+    <chapter name="出门在外">
+        <unit>At the Post Office</unit>
+        <unit>At the Bank 1 - Opening an Account</unit>
+        <unit>At the Bank 2 - Deposit and Withdrawal</unit>
+        <unit>Elevator Malfunction</unit>
+        <unit>Weather Forecast</unit>
+        <unit>Asking for Directions</unit>
+    </chapter>
+    <chapter name="交通">
+        <unit>Traffic Jam</unit>
+        <unit>Parking Ticket</unit>
+        <unit>Gas Station</unit>
+        <unit>Car Wash</unit>
+        <unit>Break Downs</unit>
+        <unit>Planning a Bus Trip</unit>
+        <unit>Subway Services</unit>
+    </chapter>
+    <chapter name="兴趣爱好">
+        <unit>Gardening</unit>
+        <unit>Music</unit>
+        <unit>Sports</unit>
+        <unit>Online Games</unit>
+        <unit>Barbecue</unit>
+        <unit>Camping</unit>
+        <unit>Soccer Games</unit>
+        <unit>Movies</unit>
+        <unit>Nightclubs</unit>
+    </chapter>
+    <chapter name="图书馆">
+        <unit>Looking for a Book</unit>
+        <unit>Borrowing a Book</unit>
+        <unit>Returning Books</unit>
+        <unit>An Overdue Book</unit>
+    </chapter>
+    <chapter name="网络购物">
+        <unit>Online Experience</unit>
+        <unit>Online Security</unit>
+        <unit>Selling Goods Online</unit>
+        <unit>Paying for an Item Online</unit>
+        <unit>Unsatisfied</unit>
+    </chapter>
+    <chapter name="租房">
+        <unit>Renting an Apartment</unit>
+        <unit>Signing an Apartment</unit>
+        <unit>Moving Out from the Rental</unit>
+        <unit>Blackouts</unit>
+        <unit>A Leaky Faucet</unit>
+    </chapter>
+    <chapter name="逢年过节">
+        <unit>Christmas</unit>
+        <unit>New Year</unit>
+        <unit>Thanksgiving</unit>
+        <unit>Mother's Day</unit>
+        <unit>Valentine's Day</unit>
+        <unit>Easter</unit>
+        <unit>The Spring Festival</unit>
+        <unit>Parade</unit>
+        <unit>Culture Shock</unit>
+    </chapter>
+    <chapter name="工作">
+        <unit>Applying for a Part-time Job</unit>
+        <unit>Negotiating the Salary</unit>
+        <unit>Asking for Leave</unit>
+        <unit>Resignation</unit>
+    </chapter>
+</book>
